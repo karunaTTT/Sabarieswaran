@@ -3,7 +3,7 @@ public class sample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method 
-		System.out.println("Suucess");
+		System.out.println("Success");
 	}
 
 }
